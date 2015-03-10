@@ -1,5 +1,5 @@
 #Welcome to BetsyBot
-BetsyBot is a PHP/MySQL based chatbot with an AJAX client. BetsyBot does not use AIML, but rather straight PHP/MySQL. She is able to be taught, and she learns on her own, over time coming to resemble the people that take to her. The code is still in need of some serious commenting, some refining, as well as an admin section I am currently working on for a simple user interface into her brain.
+BetsyBot is a PHP/MySQL based chatbot with an AJAX client. BetsyBot does not use AIML, but rather straight PHP/MySQL. She is able to be taught, and she learns on her own, over time coming to resemble the people that talk to her. The code is still in need of some serious commenting, some refining, as well as an admin section I am currently working on for a simple user interface into her brain.
 
 #Visit BetsyBot
 www.betsybot.symbioticwebdesign.com
