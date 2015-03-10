@@ -1,9 +1,12 @@
 #Welcome to BetsyBot
 BetsyBot is a PHP/MySQL based chatbot with an AJAX client. BetsyBot does not use AIML, but rather straight PHP/MySQL. She is able to be taught, and she learns on her own, over time comming to resemble the people that take to her. The code is still in need of some serious commenting, some refining, as well as an admin section I am currently working on for a simple user interface into her brain.
 
+#Visit BetsyBot
+www.betsybot.symbioticwebdesign.com
+
 ##File Structure
-### Dossiers et fichiers du MVC
-Le MVC utilise les fichiers index.php, var.init.php, config.php, gabarit.projet.php, Controler.class.php et ajaxControler.php ainsi que les dossiers /lib, /modeles et /vues.
+### MVC architecture
+
 
 #### index.php
 This is the main MVC file that initiates the controller.
