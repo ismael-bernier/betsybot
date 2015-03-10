@@ -1,0 +1,121 @@
+/********
+* Author: Ismael Bernier
+********/
+
+article {
+
+	
+}
+
+#betsycam {
+	float:left;
+	width:48%;
+}
+
+#botsection {
+	float:right;
+	width:48%;
+	padding:2%;
+}
+
+body {
+		background-color: rgb(202, 225, 255);
+	
+}
+
+.wrapper {
+	width:96%;
+	margin:auto;
+	max-width:1200px;
+}
+
+footer {
+	text-align: center;
+		clear:both;
+}
+
+header h1 {
+	text-shadow: 0px 0px 2px #00006f;
+	color:#fffff0;
+	text-align: center;
+}
+
+
+a {
+	text-shadow: 0px 0px 2px #fffff0;
+	color:#00006f;
+}
+
+a:hover {
+	text-shadow: 0px 0px 2px #fffff0;
+	color:#000fff;
+}
+
+#history {
+	margin-bottom:2em;
+}
+
+#botResponse {
+	margin-bottom:2em;
+}
+
+.inputDiv {
+	text-align:center;
+}
+
+#userManual, #alpha, #beta{
+	
+	color:#00f;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+#loginText {
+	color:#00f;
+	text-decoration: underline;
+	cursor: pointer;
+	text-align:right;
+}
+#registerText {
+	color:#00f;
+	text-decoration: underline;
+	cursor: pointer;
+	text-align:right;
+}
+
+#logoutText {
+	color:#00f;
+	text-decoration: underline;
+	cursor: pointer;
+	text-align:right;
+	display:none;
+}
+
+#loginFields{
+	display:none;
+	text-align:right;
+}
+#registerFields{
+	display:none;
+	text-align:right;
+}
+#hideLoginText{
+	display:none;
+	color:#00f;
+	text-decoration: underline;
+	cursor: pointer;
+	text-align:right;
+}
+#hideRegisterText{
+	display:none;
+	color:#00f;
+	text-decoration: underline;
+	cursor: pointer;
+	text-align:right;
+}
+header p {
+	text-align:center;
+}
+.right p{
+	text-align:right;
+}

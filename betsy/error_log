@@ -1,0 +1,491 @@
+[12-Jan-2015 17:04:07 America/Denver] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'ismael_omegabot'@'localhost' (using password: YES) in /home/ismael/public_html/omegabot/modeles/Omega.class.php on line 19
+[12-Jan-2015 17:04:07 America/Denver] PHP Warning:  mysqli::set_charset() [<a href='mysqli.set-charset'>mysqli.set-charset</a>]: Couldn't fetch mysqli in /home/ismael/public_html/omegabot/modeles/Omega.class.php on line 20
+[12-Jan-2015 17:04:07 America/Denver] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/ismael/public_html/omegabot/modeles/Omega.class.php on line 21
+[12-Jan-2015 17:53:37 America/Denver] PHP Parse error:  syntax error, unexpected T_IF, expecting T_FUNCTION in /home/ismael/public_html/omegabot/modeles/Omega.class.php on line 27
+[12-Jan-2015 18:13:20 America/Denver] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/ismael/public_html/omegabot/modeles/Omega.class.php on line 25
+[12-Jan-2015 18:14:14 America/Denver] PHP Parse error:  syntax error, unexpected T_IF, expecting T_FUNCTION in /home/ismael/public_html/omegabot/modeles/Omega.class.php on line 27
+[12-Jan-2015 18:17:06 America/Denver] PHP Fatal error:  Call to undefined method mysqli_result::result() in /home/ismael/public_html/omegabot/modeles/Omega.class.php on line 23
+[12-Jan-2015 18:56:29 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/ismael/public_html/omegabot/modeles/Omega.class.php on line 27
+[13-Jan-2015 10:43:27 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 25
+[13-Jan-2015 10:43:27 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 30
+[13-Jan-2015 10:43:27 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 42
+[13-Jan-2015 10:43:27 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 46
+[13-Jan-2015 10:43:27 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 51
+[13-Jan-2015 10:43:27 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 51
+[13-Jan-2015 10:43:27 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 55
+[13-Jan-2015 10:43:27 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 55
+[13-Jan-2015 10:43:27 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 60
+[13-Jan-2015 10:43:27 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 60
+[13-Jan-2015 10:43:27 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 74
+[13-Jan-2015 10:43:27 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 79
+[13-Jan-2015 10:43:27 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 79
+[13-Jan-2015 10:43:27 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 84
+[13-Jan-2015 10:43:27 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 84
+[13-Jan-2015 10:43:27 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 98
+[13-Jan-2015 10:43:27 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 103
+[13-Jan-2015 10:43:27 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 103
+[13-Jan-2015 10:43:27 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 107
+[13-Jan-2015 10:43:27 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 107
+[13-Jan-2015 10:43:27 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 112
+[13-Jan-2015 10:43:27 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 112
+[13-Jan-2015 10:43:27 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 128
+[13-Jan-2015 10:43:27 America/Denver] PHP Warning:  Illegal string offset 'ID' in /home/ismael/public_html/omegabot/ajaxController.php on line 130
+[13-Jan-2015 10:44:47 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 25
+[13-Jan-2015 10:44:47 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 30
+[13-Jan-2015 10:44:47 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 42
+[13-Jan-2015 10:44:47 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 46
+[13-Jan-2015 10:44:47 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 51
+[13-Jan-2015 10:44:47 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 51
+[13-Jan-2015 10:44:47 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 55
+[13-Jan-2015 10:44:47 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 55
+[13-Jan-2015 10:44:47 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 60
+[13-Jan-2015 10:44:47 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 60
+[13-Jan-2015 10:44:47 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 74
+[13-Jan-2015 10:44:47 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 79
+[13-Jan-2015 10:44:47 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 79
+[13-Jan-2015 10:44:47 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 84
+[13-Jan-2015 10:44:47 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 84
+[13-Jan-2015 10:44:47 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 98
+[13-Jan-2015 10:44:47 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 103
+[13-Jan-2015 10:44:47 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 103
+[13-Jan-2015 10:44:47 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 107
+[13-Jan-2015 10:44:47 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 107
+[13-Jan-2015 10:44:47 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 112
+[13-Jan-2015 10:44:47 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 112
+[13-Jan-2015 10:44:47 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 128
+[13-Jan-2015 10:44:47 America/Denver] PHP Warning:  Illegal string offset 'ID' in /home/ismael/public_html/omegabot/ajaxController.php on line 130
+[13-Jan-2015 10:45:00 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 23
+[13-Jan-2015 10:45:00 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 28
+[13-Jan-2015 10:45:00 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 40
+[13-Jan-2015 10:45:00 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 44
+[13-Jan-2015 10:45:00 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 49
+[13-Jan-2015 10:45:00 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 49
+[13-Jan-2015 10:45:00 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 53
+[13-Jan-2015 10:45:00 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 53
+[13-Jan-2015 10:45:00 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 58
+[13-Jan-2015 10:45:00 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 58
+[13-Jan-2015 10:45:00 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 72
+[13-Jan-2015 10:45:00 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 77
+[13-Jan-2015 10:45:00 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 77
+[13-Jan-2015 10:45:00 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 82
+[13-Jan-2015 10:45:00 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 82
+[13-Jan-2015 10:45:00 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 96
+[13-Jan-2015 10:45:00 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 101
+[13-Jan-2015 10:45:00 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 101
+[13-Jan-2015 10:45:00 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 105
+[13-Jan-2015 10:45:00 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 105
+[13-Jan-2015 10:45:00 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 110
+[13-Jan-2015 10:45:00 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 110
+[13-Jan-2015 10:45:00 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 126
+[13-Jan-2015 10:45:00 America/Denver] PHP Warning:  Illegal string offset 'ID' in /home/ismael/public_html/omegabot/ajaxController.php on line 128
+[13-Jan-2015 10:47:58 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 23
+[13-Jan-2015 10:47:58 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 28
+[13-Jan-2015 10:47:58 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 40
+[13-Jan-2015 10:47:58 America/Denver] PHP Warning:  Illegal string offset 'userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 44
+[13-Jan-2015 10:47:58 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 49
+[13-Jan-2015 10:47:58 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 49
+[13-Jan-2015 10:47:58 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 53
+[13-Jan-2015 10:47:58 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 53
+[13-Jan-2015 10:47:58 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 58
+[13-Jan-2015 10:47:58 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 58
+[13-Jan-2015 10:47:58 America/Denver] PHP Warning:  Illegal string offset 'userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 72
+[13-Jan-2015 10:47:58 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 77
+[13-Jan-2015 10:47:58 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 77
+[13-Jan-2015 10:47:58 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 82
+[13-Jan-2015 10:47:58 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 82
+[13-Jan-2015 10:47:58 America/Denver] PHP Warning:  Illegal string offset 'userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 96
+[13-Jan-2015 10:47:58 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 101
+[13-Jan-2015 10:47:58 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 101
+[13-Jan-2015 10:47:58 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 105
+[13-Jan-2015 10:47:58 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 105
+[13-Jan-2015 10:47:58 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 110
+[13-Jan-2015 10:47:58 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 110
+[13-Jan-2015 10:47:58 America/Denver] PHP Warning:  Illegal string offset 'userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 126
+[13-Jan-2015 10:47:58 America/Denver] PHP Warning:  Illegal string offset 'ID' in /home/ismael/public_html/omegabot/ajaxController.php on line 128
+[13-Jan-2015 10:49:30 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 23
+[13-Jan-2015 10:49:30 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 28
+[13-Jan-2015 10:49:30 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 40
+[13-Jan-2015 10:49:30 America/Denver] PHP Warning:  Illegal string offset 'userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 44
+[13-Jan-2015 10:49:30 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 49
+[13-Jan-2015 10:49:30 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 49
+[13-Jan-2015 10:49:30 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 53
+[13-Jan-2015 10:49:30 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 53
+[13-Jan-2015 10:49:30 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 58
+[13-Jan-2015 10:49:30 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 58
+[13-Jan-2015 10:49:30 America/Denver] PHP Warning:  Illegal string offset 'userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 72
+[13-Jan-2015 10:49:30 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 77
+[13-Jan-2015 10:49:30 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 77
+[13-Jan-2015 10:49:30 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 82
+[13-Jan-2015 10:49:30 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 82
+[13-Jan-2015 10:49:30 America/Denver] PHP Warning:  Illegal string offset 'userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 96
+[13-Jan-2015 10:49:30 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 101
+[13-Jan-2015 10:49:30 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 101
+[13-Jan-2015 10:49:30 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 105
+[13-Jan-2015 10:49:30 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 105
+[13-Jan-2015 10:49:30 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 110
+[13-Jan-2015 10:49:30 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 110
+[13-Jan-2015 10:49:30 America/Denver] PHP Warning:  Illegal string offset 'userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 126
+[13-Jan-2015 10:49:30 America/Denver] PHP Warning:  Illegal string offset 'ID' in /home/ismael/public_html/omegabot/ajaxController.php on line 128
+[13-Jan-2015 10:52:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 28
+[13-Jan-2015 10:52:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 40
+[13-Jan-2015 10:52:16 America/Denver] PHP Warning:  Illegal string offset 'userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 44
+[13-Jan-2015 10:52:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 49
+[13-Jan-2015 10:52:16 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 49
+[13-Jan-2015 10:52:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 53
+[13-Jan-2015 10:52:16 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 53
+[13-Jan-2015 10:52:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 58
+[13-Jan-2015 10:52:16 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 58
+[13-Jan-2015 10:52:16 America/Denver] PHP Warning:  Illegal string offset 'userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 72
+[13-Jan-2015 10:52:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 77
+[13-Jan-2015 10:52:16 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 77
+[13-Jan-2015 10:52:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 82
+[13-Jan-2015 10:52:16 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 82
+[13-Jan-2015 10:52:16 America/Denver] PHP Warning:  Illegal string offset 'userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 96
+[13-Jan-2015 10:52:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 101
+[13-Jan-2015 10:52:16 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 101
+[13-Jan-2015 10:52:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 105
+[13-Jan-2015 10:52:16 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 105
+[13-Jan-2015 10:52:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 110
+[13-Jan-2015 10:52:16 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 110
+[13-Jan-2015 10:52:16 America/Denver] PHP Warning:  Illegal string offset 'userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 126
+[13-Jan-2015 10:52:16 America/Denver] PHP Warning:  Illegal string offset 'ID' in /home/ismael/public_html/omegabot/ajaxController.php on line 128
+[13-Jan-2015 10:55:49 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home/ismael/public_html/omegabot/ajaxController.php on line 128
+[13-Jan-2015 10:56:40 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home/ismael/public_html/omegabot/ajaxController.php on line 128
+[13-Jan-2015 10:57:58 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home/ismael/public_html/omegabot/ajaxController.php on line 128
+[13-Jan-2015 11:04:10 America/Denver] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /home/ismael/public_html/omegabot/ajaxController.php on line 128
+[13-Jan-2015 11:05:13 America/Denver] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /home/ismael/public_html/omegabot/ajaxController.php on line 129
+[13-Jan-2015 11:08:11 America/Denver] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /home/ismael/public_html/omegabot/ajaxController.php on line 129
+[13-Jan-2015 11:08:11 America/Denver] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /home/ismael/public_html/omegabot/ajaxController.php on line 129
+[13-Jan-2015 11:08:11 America/Denver] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /home/ismael/public_html/omegabot/ajaxController.php on line 129
+[13-Jan-2015 11:08:11 America/Denver] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /home/ismael/public_html/omegabot/ajaxController.php on line 129
+[13-Jan-2015 11:08:11 America/Denver] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /home/ismael/public_html/omegabot/ajaxController.php on line 129
+[13-Jan-2015 11:08:11 America/Denver] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /home/ismael/public_html/omegabot/ajaxController.php on line 129
+[13-Jan-2015 11:08:11 America/Denver] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /home/ismael/public_html/omegabot/ajaxController.php on line 129
+[13-Jan-2015 11:08:11 America/Denver] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /home/ismael/public_html/omegabot/ajaxController.php on line 129
+[13-Jan-2015 11:08:11 America/Denver] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /home/ismael/public_html/omegabot/ajaxController.php on line 129
+[13-Jan-2015 11:11:41 America/Denver] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /home/ismael/public_html/omegabot/ajaxController.php on line 128
+[13-Jan-2015 11:12:10 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 25
+[13-Jan-2015 11:12:10 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 30
+[13-Jan-2015 11:12:10 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 42
+[13-Jan-2015 11:12:10 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 46
+[13-Jan-2015 11:12:10 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 51
+[13-Jan-2015 11:12:10 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 51
+[13-Jan-2015 11:12:10 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 55
+[13-Jan-2015 11:12:10 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 55
+[13-Jan-2015 11:12:10 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 60
+[13-Jan-2015 11:12:10 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 60
+[13-Jan-2015 11:12:10 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 74
+[13-Jan-2015 11:12:10 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 79
+[13-Jan-2015 11:12:10 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 79
+[13-Jan-2015 11:12:10 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 84
+[13-Jan-2015 11:12:10 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 84
+[13-Jan-2015 11:12:10 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 98
+[13-Jan-2015 11:12:10 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 103
+[13-Jan-2015 11:12:10 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 103
+[13-Jan-2015 11:12:10 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 107
+[13-Jan-2015 11:12:10 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 107
+[13-Jan-2015 11:12:10 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 112
+[13-Jan-2015 11:12:10 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 112
+[13-Jan-2015 11:12:10 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 128
+[13-Jan-2015 11:12:10 America/Denver] PHP Warning:  Illegal string offset 'ID' in /home/ismael/public_html/omegabot/ajaxController.php on line 130
+[13-Jan-2015 11:14:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 25
+[13-Jan-2015 11:14:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 30
+[13-Jan-2015 11:14:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 42
+[13-Jan-2015 11:14:16 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 46
+[13-Jan-2015 11:14:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 51
+[13-Jan-2015 11:14:16 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 51
+[13-Jan-2015 11:14:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 55
+[13-Jan-2015 11:14:16 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 55
+[13-Jan-2015 11:14:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 60
+[13-Jan-2015 11:14:16 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 60
+[13-Jan-2015 11:14:16 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 74
+[13-Jan-2015 11:14:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 79
+[13-Jan-2015 11:14:16 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 79
+[13-Jan-2015 11:14:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 84
+[13-Jan-2015 11:14:16 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 84
+[13-Jan-2015 11:14:16 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 98
+[13-Jan-2015 11:14:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 103
+[13-Jan-2015 11:14:16 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 103
+[13-Jan-2015 11:14:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 107
+[13-Jan-2015 11:14:16 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 107
+[13-Jan-2015 11:14:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 112
+[13-Jan-2015 11:14:16 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 112
+[13-Jan-2015 11:14:16 America/Denver] PHP Warning:  Attempt to assign property of non-object in /home/ismael/public_html/omegabot/ajaxController.php on line 130
+[13-Jan-2015 11:15:11 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 25
+[13-Jan-2015 11:15:11 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 30
+[13-Jan-2015 11:15:11 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 42
+[13-Jan-2015 11:15:11 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 46
+[13-Jan-2015 11:15:11 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 51
+[13-Jan-2015 11:15:11 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 51
+[13-Jan-2015 11:15:11 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 55
+[13-Jan-2015 11:15:11 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 55
+[13-Jan-2015 11:15:11 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 60
+[13-Jan-2015 11:15:11 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 60
+[13-Jan-2015 11:15:11 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 74
+[13-Jan-2015 11:15:11 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 79
+[13-Jan-2015 11:15:11 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 79
+[13-Jan-2015 11:15:11 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 84
+[13-Jan-2015 11:15:11 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 84
+[13-Jan-2015 11:15:11 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 98
+[13-Jan-2015 11:15:11 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 103
+[13-Jan-2015 11:15:11 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 103
+[13-Jan-2015 11:15:11 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 107
+[13-Jan-2015 11:15:11 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 107
+[13-Jan-2015 11:15:11 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 112
+[13-Jan-2015 11:15:11 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 112
+[13-Jan-2015 11:16:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 25
+[13-Jan-2015 11:16:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 30
+[13-Jan-2015 11:16:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 42
+[13-Jan-2015 11:16:16 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 46
+[13-Jan-2015 11:16:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 51
+[13-Jan-2015 11:16:16 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 51
+[13-Jan-2015 11:16:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 55
+[13-Jan-2015 11:16:16 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 55
+[13-Jan-2015 11:16:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 60
+[13-Jan-2015 11:16:16 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 60
+[13-Jan-2015 11:16:16 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 74
+[13-Jan-2015 11:16:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 79
+[13-Jan-2015 11:16:16 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 79
+[13-Jan-2015 11:16:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 84
+[13-Jan-2015 11:16:16 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 84
+[13-Jan-2015 11:16:16 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 98
+[13-Jan-2015 11:16:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 103
+[13-Jan-2015 11:16:16 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 103
+[13-Jan-2015 11:16:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 107
+[13-Jan-2015 11:16:16 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 107
+[13-Jan-2015 11:16:16 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 112
+[13-Jan-2015 11:16:16 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 112
+[13-Jan-2015 11:16:53 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 25
+[13-Jan-2015 11:16:53 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 30
+[13-Jan-2015 11:16:53 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 42
+[13-Jan-2015 11:16:53 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 46
+[13-Jan-2015 11:16:53 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 51
+[13-Jan-2015 11:16:53 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 51
+[13-Jan-2015 11:16:53 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 55
+[13-Jan-2015 11:16:53 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 55
+[13-Jan-2015 11:16:53 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 60
+[13-Jan-2015 11:16:53 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 60
+[13-Jan-2015 11:16:53 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 74
+[13-Jan-2015 11:16:53 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 79
+[13-Jan-2015 11:16:53 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 79
+[13-Jan-2015 11:16:53 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 84
+[13-Jan-2015 11:16:53 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 84
+[13-Jan-2015 11:16:53 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 98
+[13-Jan-2015 11:16:53 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 103
+[13-Jan-2015 11:16:53 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 103
+[13-Jan-2015 11:16:53 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 107
+[13-Jan-2015 11:16:53 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 107
+[13-Jan-2015 11:16:53 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 112
+[13-Jan-2015 11:16:53 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 112
+[13-Jan-2015 11:16:53 America/Denver] PHP Warning:  Illegal string offset 'userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 127
+[13-Jan-2015 11:17:50 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 25
+[13-Jan-2015 11:17:50 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 30
+[13-Jan-2015 11:17:50 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 42
+[13-Jan-2015 11:17:50 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 46
+[13-Jan-2015 11:17:50 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 51
+[13-Jan-2015 11:17:50 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 51
+[13-Jan-2015 11:17:50 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 55
+[13-Jan-2015 11:17:50 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 55
+[13-Jan-2015 11:17:50 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 60
+[13-Jan-2015 11:17:50 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 60
+[13-Jan-2015 11:17:50 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 74
+[13-Jan-2015 11:17:50 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 79
+[13-Jan-2015 11:17:50 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 79
+[13-Jan-2015 11:17:50 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 84
+[13-Jan-2015 11:17:50 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 84
+[13-Jan-2015 11:17:50 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 98
+[13-Jan-2015 11:17:50 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 103
+[13-Jan-2015 11:17:50 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 103
+[13-Jan-2015 11:17:50 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 107
+[13-Jan-2015 11:17:50 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 107
+[13-Jan-2015 11:17:50 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 112
+[13-Jan-2015 11:17:50 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 112
+[13-Jan-2015 11:17:50 America/Denver] PHP Warning:  Illegal string offset 'userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 127
+[13-Jan-2015 11:18:59 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 25
+[13-Jan-2015 11:18:59 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 30
+[13-Jan-2015 11:18:59 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 42
+[13-Jan-2015 11:18:59 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 46
+[13-Jan-2015 11:18:59 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 51
+[13-Jan-2015 11:18:59 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 51
+[13-Jan-2015 11:18:59 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 55
+[13-Jan-2015 11:18:59 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 55
+[13-Jan-2015 11:18:59 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 60
+[13-Jan-2015 11:18:59 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 60
+[13-Jan-2015 11:18:59 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 74
+[13-Jan-2015 11:18:59 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 79
+[13-Jan-2015 11:18:59 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 79
+[13-Jan-2015 11:18:59 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 84
+[13-Jan-2015 11:18:59 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 84
+[13-Jan-2015 11:18:59 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 98
+[13-Jan-2015 11:18:59 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 103
+[13-Jan-2015 11:18:59 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 103
+[13-Jan-2015 11:18:59 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 107
+[13-Jan-2015 11:18:59 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 107
+[13-Jan-2015 11:18:59 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 112
+[13-Jan-2015 11:18:59 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 112
+[13-Jan-2015 11:18:59 America/Denver] PHP Warning:  Illegal string offset 'userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 128
+[13-Jan-2015 11:19:54 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 25
+[13-Jan-2015 11:19:54 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 30
+[13-Jan-2015 11:19:54 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 42
+[13-Jan-2015 11:19:54 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 46
+[13-Jan-2015 11:19:54 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 51
+[13-Jan-2015 11:19:54 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 51
+[13-Jan-2015 11:19:54 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 55
+[13-Jan-2015 11:19:54 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 55
+[13-Jan-2015 11:19:54 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 60
+[13-Jan-2015 11:19:54 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 60
+[13-Jan-2015 11:19:54 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 74
+[13-Jan-2015 11:19:54 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 79
+[13-Jan-2015 11:19:54 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 79
+[13-Jan-2015 11:19:54 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 84
+[13-Jan-2015 11:19:54 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 84
+[13-Jan-2015 11:19:54 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 98
+[13-Jan-2015 11:19:54 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 103
+[13-Jan-2015 11:19:54 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 103
+[13-Jan-2015 11:19:54 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 107
+[13-Jan-2015 11:19:54 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 107
+[13-Jan-2015 11:19:54 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 112
+[13-Jan-2015 11:19:54 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 112
+[13-Jan-2015 11:19:55 America/Denver] PHP Warning:  Illegal string offset 'userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 128
+[13-Jan-2015 11:21:57 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 25
+[13-Jan-2015 11:21:57 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 30
+[13-Jan-2015 11:21:57 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 42
+[13-Jan-2015 11:21:57 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 46
+[13-Jan-2015 11:21:57 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 51
+[13-Jan-2015 11:21:57 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 51
+[13-Jan-2015 11:21:57 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 55
+[13-Jan-2015 11:21:57 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 55
+[13-Jan-2015 11:21:57 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 60
+[13-Jan-2015 11:21:57 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 60
+[13-Jan-2015 11:21:57 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 74
+[13-Jan-2015 11:21:57 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 79
+[13-Jan-2015 11:21:57 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 79
+[13-Jan-2015 11:21:57 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 84
+[13-Jan-2015 11:21:57 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 84
+[13-Jan-2015 11:21:57 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 98
+[13-Jan-2015 11:21:57 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 103
+[13-Jan-2015 11:21:57 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 103
+[13-Jan-2015 11:21:57 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 107
+[13-Jan-2015 11:21:57 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 107
+[13-Jan-2015 11:21:57 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 112
+[13-Jan-2015 11:21:57 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 112
+[13-Jan-2015 11:21:57 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/ismael/public_html/omegabot/ajaxController.php on line 127
+[13-Jan-2015 11:21:57 America/Denver] PHP Warning:  Illegal string offset 'userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 131
+[13-Jan-2015 11:22:58 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 25
+[13-Jan-2015 11:22:58 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 30
+[13-Jan-2015 11:22:58 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 42
+[13-Jan-2015 11:22:58 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 46
+[13-Jan-2015 11:22:58 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 51
+[13-Jan-2015 11:22:58 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 51
+[13-Jan-2015 11:22:58 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 55
+[13-Jan-2015 11:22:58 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 55
+[13-Jan-2015 11:22:58 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 60
+[13-Jan-2015 11:22:58 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 60
+[13-Jan-2015 11:22:58 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 74
+[13-Jan-2015 11:22:58 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 79
+[13-Jan-2015 11:22:58 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 79
+[13-Jan-2015 11:22:58 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 84
+[13-Jan-2015 11:22:58 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 84
+[13-Jan-2015 11:22:58 America/Denver] PHP Warning:  Illegal string offset '$userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 98
+[13-Jan-2015 11:22:58 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 103
+[13-Jan-2015 11:22:58 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 103
+[13-Jan-2015 11:22:58 America/Denver] PHP Warning:  Illegal string offset 'answerMinus1' in /home/ismael/public_html/omegabot/ajaxController.php on line 107
+[13-Jan-2015 11:22:58 America/Denver] PHP Warning:  Illegal string offset 'questionMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 107
+[13-Jan-2015 11:22:58 America/Denver] PHP Warning:  Illegal string offset 'answerMinus2' in /home/ismael/public_html/omegabot/ajaxController.php on line 112
+[13-Jan-2015 11:22:58 America/Denver] PHP Warning:  Illegal string offset 'questionMinus3' in /home/ismael/public_html/omegabot/ajaxController.php on line 112
+[13-Jan-2015 11:22:58 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/ismael/public_html/omegabot/ajaxController.php on line 130
+[13-Jan-2015 11:22:58 America/Denver] PHP Warning:  Illegal string offset 'userInput' in /home/ismael/public_html/omegabot/ajaxController.php on line 134
+[13-Jan-2015 19:41:46 America/Denver] PHP Parse error:  syntax error, unexpected '"Origin, X-Requested-With, Con' (T_CONSTANT_ENCAPSED_STRING) in /home/ismael/public_html/omegabot/ajaxController.php on line 18
+[13-Jan-2015 20:19:40 America/Denver] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/ismael/public_html/omegabot/ajaxController.php on line 37
+[13-Jan-2015 20:19:40 America/Denver] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/ismael/public_html/omegabot/ajaxController.php on line 37
+[13-Jan-2015 21:36:18 America/Denver] PHP Fatal error:  Using $this when not in object context in /home/ismael/public_html/omegabot/ajaxController.php on line 35
+[13-Jan-2015 21:37:52 America/Denver] PHP Fatal error:  Using $this when not in object context in /home/ismael/public_html/omegabot/ajaxController.php on line 35
+[13-Jan-2015 21:37:53 America/Denver] PHP Fatal error:  Using $this when not in object context in /home/ismael/public_html/omegabot/ajaxController.php on line 35
+[13-Jan-2015 21:52:49 America/Denver] PHP Warning:  file_get_contents() expects at least 1 parameter, 0 given in /home/ismael/public_html/omegabot/ajaxController.php on line 35
+[13-Jan-2015 21:52:50 America/Denver] PHP Warning:  file_get_contents() expects at least 1 parameter, 0 given in /home/ismael/public_html/omegabot/ajaxController.php on line 35
+[13-Jan-2015 21:55:52 America/Denver] PHP Warning:  file_get_contents() expects at least 1 parameter, 0 given in /home/ismael/public_html/omegabot/ajaxController.php on line 35
+[13-Jan-2015 21:55:52 America/Denver] PHP Warning:  file_get_contents() expects at least 1 parameter, 0 given in /home/ismael/public_html/omegabot/ajaxController.php on line 35
+[13-Jan-2015 21:56:22 America/Denver] PHP Warning:  file_get_contents() expects at least 1 parameter, 0 given in /home/ismael/public_html/omegabot/ajaxController.php on line 35
+[13-Jan-2015 21:56:23 America/Denver] PHP Warning:  file_get_contents() expects at least 1 parameter, 0 given in /home/ismael/public_html/omegabot/ajaxController.php on line 35
+[14-Jan-2015 10:50:08 America/Denver] PHP Warning:  file_get_contents() expects at least 1 parameter, 0 given in /home/ismael/public_html/omegabot/ajaxController.php on line 35
+[14-Jan-2015 19:54:40 America/Denver] PHP Warning:  Unterminated comment starting line 56 in /home/ismael/public_html/omegabot/ajaxController.php on line 56
+[14-Jan-2015 19:54:40 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:56) in /home/ismael/public_html/omegabot/ajaxController.php on line 14
+[14-Jan-2015 19:54:40 America/Denver] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:56) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 19:54:40 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ismael/public_html/omegabot/ajaxController.php:56) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 19:55:18 America/Denver] PHP Warning:  Unterminated comment starting line 56 in /home/ismael/public_html/omegabot/ajaxController.php on line 56
+[14-Jan-2015 19:55:18 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:56) in /home/ismael/public_html/omegabot/ajaxController.php on line 14
+[14-Jan-2015 19:55:18 America/Denver] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:56) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 19:55:18 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ismael/public_html/omegabot/ajaxController.php:56) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 19:55:58 America/Denver] PHP Warning:  Unterminated comment starting line 56 in /home/ismael/public_html/omegabot/ajaxController.php on line 56
+[14-Jan-2015 19:55:58 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:56) in /home/ismael/public_html/omegabot/ajaxController.php on line 14
+[14-Jan-2015 19:55:58 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:56) in /home/ismael/public_html/omegabot/ajaxController.php on line 15
+[14-Jan-2015 19:55:58 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:56) in /home/ismael/public_html/omegabot/ajaxController.php on line 16
+[14-Jan-2015 19:55:58 America/Denver] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:56) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 19:55:58 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ismael/public_html/omegabot/ajaxController.php:56) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 19:58:18 America/Denver] PHP Warning:  Unterminated comment starting line 56 in /home/ismael/public_html/omegabot/ajaxController.php on line 56
+[14-Jan-2015 19:58:18 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:56) in /home/ismael/public_html/omegabot/ajaxController.php on line 14
+[14-Jan-2015 19:58:18 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:56) in /home/ismael/public_html/omegabot/ajaxController.php on line 15
+[14-Jan-2015 19:58:18 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:56) in /home/ismael/public_html/omegabot/ajaxController.php on line 16
+[14-Jan-2015 19:58:18 America/Denver] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:56) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 19:58:18 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ismael/public_html/omegabot/ajaxController.php:56) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 19:59:27 America/Denver] PHP Warning:  Unterminated comment starting line 56 in /home/ismael/public_html/omegabot/ajaxController.php on line 56
+[14-Jan-2015 19:59:27 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:56) in /home/ismael/public_html/omegabot/ajaxController.php on line 14
+[14-Jan-2015 19:59:27 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:56) in /home/ismael/public_html/omegabot/ajaxController.php on line 15
+[14-Jan-2015 19:59:27 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:56) in /home/ismael/public_html/omegabot/ajaxController.php on line 16
+[14-Jan-2015 19:59:27 America/Denver] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:56) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 19:59:27 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ismael/public_html/omegabot/ajaxController.php:56) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 20:05:21 America/Denver] PHP Warning:  Unterminated comment starting line 57 in /home/ismael/public_html/omegabot/ajaxController.php on line 57
+[14-Jan-2015 20:05:21 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:57) in /home/ismael/public_html/omegabot/ajaxController.php on line 14
+[14-Jan-2015 20:05:21 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:57) in /home/ismael/public_html/omegabot/ajaxController.php on line 15
+[14-Jan-2015 20:05:21 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:57) in /home/ismael/public_html/omegabot/ajaxController.php on line 17
+[14-Jan-2015 20:05:21 America/Denver] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:57) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 20:05:21 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ismael/public_html/omegabot/ajaxController.php:57) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 20:06:00 America/Denver] PHP Warning:  Unterminated comment starting line 57 in /home/ismael/public_html/omegabot/ajaxController.php on line 57
+[14-Jan-2015 20:06:00 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:57) in /home/ismael/public_html/omegabot/ajaxController.php on line 14
+[14-Jan-2015 20:06:00 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:57) in /home/ismael/public_html/omegabot/ajaxController.php on line 15
+[14-Jan-2015 20:06:00 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:57) in /home/ismael/public_html/omegabot/ajaxController.php on line 17
+[14-Jan-2015 20:06:00 America/Denver] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:57) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 20:06:00 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ismael/public_html/omegabot/ajaxController.php:57) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 20:11:11 America/Denver] PHP Warning:  Unterminated comment starting line 58 in /home/ismael/public_html/omegabot/ajaxController.php on line 58
+[14-Jan-2015 20:11:11 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:58) in /home/ismael/public_html/omegabot/ajaxController.php on line 14
+[14-Jan-2015 20:11:11 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:58) in /home/ismael/public_html/omegabot/ajaxController.php on line 15
+[14-Jan-2015 20:11:11 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:58) in /home/ismael/public_html/omegabot/ajaxController.php on line 16
+[14-Jan-2015 20:11:11 America/Denver] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:58) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 20:11:11 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ismael/public_html/omegabot/ajaxController.php:58) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 20:18:05 America/Denver] PHP Warning:  Unterminated comment starting line 58 in /home/ismael/public_html/omegabot/ajaxController.php on line 58
+[14-Jan-2015 20:18:05 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:58) in /home/ismael/public_html/omegabot/ajaxController.php on line 14
+[14-Jan-2015 20:18:05 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:58) in /home/ismael/public_html/omegabot/ajaxController.php on line 15
+[14-Jan-2015 20:18:05 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:58) in /home/ismael/public_html/omegabot/ajaxController.php on line 16
+[14-Jan-2015 20:18:05 America/Denver] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:58) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 20:18:05 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ismael/public_html/omegabot/ajaxController.php:58) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 20:19:04 America/Denver] PHP Warning:  Unterminated comment starting line 58 in /home/ismael/public_html/omegabot/ajaxController.php on line 58
+[14-Jan-2015 20:19:04 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:58) in /home/ismael/public_html/omegabot/ajaxController.php on line 14
+[14-Jan-2015 20:19:04 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:58) in /home/ismael/public_html/omegabot/ajaxController.php on line 15
+[14-Jan-2015 20:19:04 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:58) in /home/ismael/public_html/omegabot/ajaxController.php on line 16
+[14-Jan-2015 20:19:04 America/Denver] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:58) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 20:19:04 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ismael/public_html/omegabot/ajaxController.php:58) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 20:23:24 America/Denver] PHP Warning:  Unterminated comment starting line 58 in /home/ismael/public_html/omegabot/ajaxController.php on line 58
+[14-Jan-2015 20:23:24 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:58) in /home/ismael/public_html/omegabot/ajaxController.php on line 14
+[14-Jan-2015 20:23:24 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:58) in /home/ismael/public_html/omegabot/ajaxController.php on line 15
+[14-Jan-2015 20:23:24 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:58) in /home/ismael/public_html/omegabot/ajaxController.php on line 16
+[14-Jan-2015 20:23:24 America/Denver] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:58) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 20:23:24 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ismael/public_html/omegabot/ajaxController.php:58) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 20:25:45 America/Denver] PHP Warning:  Unterminated comment starting line 58 in /home/ismael/public_html/omegabot/ajaxController.php on line 58
+[14-Jan-2015 20:25:45 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:58) in /home/ismael/public_html/omegabot/ajaxController.php on line 14
+[14-Jan-2015 20:25:45 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:58) in /home/ismael/public_html/omegabot/ajaxController.php on line 15
+[14-Jan-2015 20:25:45 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:58) in /home/ismael/public_html/omegabot/ajaxController.php on line 16
+[14-Jan-2015 20:25:45 America/Denver] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:58) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 20:25:45 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ismael/public_html/omegabot/ajaxController.php:58) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 20:28:21 America/Denver] PHP Warning:  Unterminated comment starting line 72 in /home/ismael/public_html/omegabot/ajaxController.php on line 72
+[14-Jan-2015 20:28:21 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:72) in /home/ismael/public_html/omegabot/ajaxController.php on line 14
+[14-Jan-2015 20:28:21 America/Denver] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:72) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 20:28:21 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ismael/public_html/omegabot/ajaxController.php:72) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 20:29:35 America/Denver] PHP Warning:  Unterminated comment starting line 74 in /home/ismael/public_html/omegabot/ajaxController.php on line 74
+[14-Jan-2015 20:29:35 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:74) in /home/ismael/public_html/omegabot/ajaxController.php on line 11
+[14-Jan-2015 20:29:35 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:74) in /home/ismael/public_html/omegabot/ajaxController.php on line 12
+[14-Jan-2015 20:29:35 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:74) in /home/ismael/public_html/omegabot/ajaxController.php on line 13
+[14-Jan-2015 20:29:35 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:74) in /home/ismael/public_html/omegabot/ajaxController.php on line 16
+[14-Jan-2015 20:29:35 America/Denver] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ismael/public_html/omegabot/ajaxController.php:74) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 20:29:35 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ismael/public_html/omegabot/ajaxController.php:74) in /home/ismael/public_html/omegabot/var.init.php on line 6
+[14-Jan-2015 20:41:43 America/Denver] PHP Fatal error:  Call to undefined function dump_all_variables() in /home/ismael/public_html/omegabot/ajaxController.php on line 39
+[14-Jan-2015 21:23:17 America/Denver] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) in /home/ismael/public_html/omegabot/ajaxController.php on line 151
