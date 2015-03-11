@@ -20,6 +20,9 @@ Controls the main web page.
 #### ajaxControler.php
 Controls the AJAX requests.
 
+#### ajaxCandy.php
+This deals with registering, logging, and determining role when interacting with BetsyBot
+
 #### /model
 Contains the models
 
