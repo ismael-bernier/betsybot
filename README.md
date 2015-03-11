@@ -6,7 +6,7 @@ www.betsybot.symbioticwebdesign.com
 
 ##File Structure
 ### MVC architecture
-
+BetsyBot is set on an MVC architecture
 
 #### index.php
 This is the main MVC file that initiates the controller.
