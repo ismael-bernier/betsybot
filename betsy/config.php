@@ -1,9 +1,7 @@
 <?php
 /**
-  * @author Ismael Bernier
- * @version 1.0
- * @license Do What The Fuck You Want To Public License (WTFPL) 
- * @license http://www.wtfpl.net/
+ * @author Copyright (C) 2015  Ismael Bernier
+ * @license The GNU General Public License version 2 (GPLv2)
  * 
  */
 	
@@ -13,7 +11,7 @@
 	include_once('./model/Candy.class.php');
 	include_once('./Controller.class.php');
 	/*
-	function my_autoloader($class) 
+	function rand_autoloader($class) 
 	{
 		$fileClasse = array('./model/', './view/', './lib/', './lib/mysql/', '' );	
 		
@@ -27,7 +25,7 @@
 		}	  
 	}
 	
-	spl_autoload_register('my_autoloader');
+	spl_autoload_register('rand_autoloader');
 	 * 
 	 */
 ?>

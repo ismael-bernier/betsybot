@@ -1,8 +1,15 @@
 <?php
+session_start();
+/**
+ * @author Copyright (C) 2015  Ismael Bernier
+ * @license The GNU General Public License version 2 (GPLv2)
+ * 
+ */
+ 
   /**
    * initiate variables
    */
-   
+  //main controller request
 	if(empty($_GET['request']))
 	{
 		$_GET['request'] = '';
@@ -10,7 +17,7 @@
    
    		
 	 	
-		
+		//bot answers and user inputs
 		if(!isset($answerMinus1))
 		{
 			$answerMinus1 = "";

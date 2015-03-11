@@ -1,8 +1,8 @@
 <?php
 session_start();
 /**
- * @author Ismael Bernier
- * @version 1.0
+ * @author Copyright (C) 2015  Ismael Bernier
+ * @license The GNU General Public License version 2 (GPLv2)
  * 
  */
 

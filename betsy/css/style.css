@@ -1,8 +1,6 @@
 /*! Made with Bones: http://themble.com/bones :) */
 /******************************************************************
-Site Name:
-Author:
-
+author: 2015  Ismael Bernier
 Stylesheet: Main Stylesheet
 
 Here's where the magic happens. Here, you'll see we are calling in
@@ -541,7 +539,7 @@ span.amp {
 
 /******************************************************************
 Site Name:
-Author:
+Author:2015  Ismael Bernier
 
 Stylesheet: Variables
 
@@ -563,7 +561,7 @@ http://sachagreif.com/sass-color-variables/
 */
 /******************************************************************
 Site Name:
-Author:
+Author:2015  Ismael Bernier
 
 Stylesheet: Typography
 
@@ -631,7 +629,7 @@ p {
 
 /******************************************************************
 Site Name:
-Author:
+Author:2015  Ismael Bernier
 
 Stylesheet: Sass Functions
 
@@ -676,7 +674,7 @@ width: 65%;
 *********************/
 /******************************************************************
 Site Name:
-Author:
+Author:2015  Ismael Bernier
 
 Stylesheet: Mixins Stylesheet
 
@@ -718,7 +716,7 @@ BOX SIZING
 probably best not to use it. I mean, were you going to anyway? */
 /******************************************************************
 Site Name:
-Author:
+Author:2015  Ismael Bernier
 
 Stylesheet: Grid Stylesheet
 
@@ -1036,7 +1034,7 @@ you hate oysters, then the world is your peanut butter & jelly sandwich.
 *********************/
 /******************************************************************
 Site Name:
-Author:
+Author:2015  Ismael Bernier
 
 Stylesheet: Alert Styles
 
@@ -1077,7 +1075,7 @@ you can just remove this stylesheet.
 
 /******************************************************************
 Site Name:
-Author:
+Author:2015  Ismael Bernier
 
 Stylesheet: Button Styles
 
@@ -1147,7 +1145,7 @@ and it will create a button dependant on those variables.
 
 /******************************************************************
 Site Name:
-Author:
+Author:2015  Ismael Bernier
 
 Stylesheet: Form Styles
 
@@ -1455,7 +1453,7 @@ the other stylesheets. Remember, keep it light: Speed is Important.
 *********************/
 /******************************************************************
 Site Name:
-Author:
+Author:2015  Ismael Bernier
 
 Stylesheet: Base Mobile Stylesheet
 
@@ -1840,7 +1838,7 @@ tweeners.
 @media only screen and (min-width: 481px) {
   /******************************************************************
   Site Name:
-  Author:
+  Author:2015  Ismael Bernier
   
   Stylesheet: 481px and Up Stylesheet
   
@@ -1907,7 +1905,7 @@ you can add resource intensive styles.
 @media only screen and (min-width: 768px) {
   /******************************************************************
   Site Name:
-  Author:
+  Author:2015  Ismael Bernier
   
   Stylesheet: Tablet & Small Desktop Stylesheet
   
@@ -2050,7 +2048,7 @@ you can add resource intensive styles.
 @media only screen and (min-width: 1030px) {
   /******************************************************************
   Site Name:
-  Author:
+  Author:2015  Ismael Bernier
   
   Stylesheet: Desktop Stylsheet
   
@@ -2071,7 +2069,7 @@ This is for the larger monitors and possibly full screen viewers.
 @media only screen and (min-width: 1240px) {
   /******************************************************************
   Site Name: 
-  Author: 
+  Author: 2015  Ismael Bernier
   
   Stylesheet: Super Large Monitor Stylesheet
   
@@ -2095,7 +2093,7 @@ query for retina AND a certain size if you want. Go Nuts.
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   /******************************************************************
   Site Name: 
-  Author: 
+  Author: 2015  Ismael Bernier
   
   Stylesheet: Retina Screens & Devices Stylesheet
   
@@ -2143,7 +2141,7 @@ be set to display none.
 @media print {
   /******************************************************************
   Site Name:
-  Author:
+  Author:2015  Ismael Bernier
   
   Stylesheet: Print Stylesheet
   
